@@ -1,2 +1,2 @@
-# SQL-_Practical_-using-_Snowflake
+# SQL_Practical_using_Snowflake
 Snowflake_Practical
