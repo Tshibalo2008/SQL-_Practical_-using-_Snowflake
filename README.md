@@ -4,3 +4,5 @@ Snowflake_Practical
 
 # Tools used
 Snowflake SQL
+
+# Basic SQL Queries
